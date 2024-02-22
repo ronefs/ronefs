@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ronefs
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning AI, 
+- 🌱 I’m currently learning AIml, 
 - 💞️ I’m looking to collaborate on AI Projects
 - 📫 How to reach me - +44 7879061171
 - 😄 Pronouns: ...
